@@ -1,9 +1,10 @@
 # 1hr projects
 
-# Wikidata Extraction
+#Project 1 Wikidata Extraction
 
 Here is a small project based on the Wikidata API:
-1- Query and download the end point result https://www.wikidata.org/wiki/Special:EntityData/Q42.json, This should be in JSON format, The id Q?? should be passed as argument to your script.
+1- Query and download the end point result 
+https://www.wikidata.org/wiki/Special:EntityData/Q42.json, This should be in JSON format, The id Q?? should be passed as argument to your script.
 2- Extract entities.Q??.labels and entities.Q??.claims.P?? .
 3- Sort Claims with mainsnak.datavalue.
 4- Provide a search functionality which X matched value, search will look into datavalue.value and datavalue.datatype. Search partial text match.
