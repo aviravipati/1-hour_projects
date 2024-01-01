@@ -1,6 +1,6 @@
 # 1hr projects
 
-## Wikidata Extraction
+# Wikidata Extraction
 
 Here is a small project based on the Wikidata API:
 1- Query and download the end point result https://www.wikidata.org/wiki/Special:EntityData/Q42.json, This should be in JSON format, The id Q?? should be passed as argument to your script.
